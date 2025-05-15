@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "John Wick",
+    "descricao": "Um ex-assassino volta à ativa quando um gângster invade sua casa, rouba seu carro e mata seu cachorro, um presente de sua falecida esposa.",
+    "url_capa": "https://br.web.img2.acsta.net/c_310_420/pictures/14/10/27/20/07/170589.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "O Poderoso Chefão",
+    "descricao": "A saga da família Corleone, liderada pelo patriarca Vito Corleone, que passa o controle de seu império do crime para seu filho relutante, Michael.",
+    "url_capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/93/20/20120855.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Interestelar",
+    "descricao": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade.",
+    "url_capa": "https://br.web.img2.acsta.net/c_310_420/pictures/14/10/31/20/39/476171.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Clube da Luta",
+    "descricao": "Um homem deprimido que sofre de insônia conhece um vendedor de sabonetes excêntrico e forma um clube de luta clandestino que se transforma em algo muito maior.",
+    "url_capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/95/60/20122166.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Parasita",
+    "descricao": "Uma família pobre coreana se infiltra na casa de uma família rica, levando a consequências inesperadas e violentas.",
+    "url_capa": "https://br.web.img3.acsta.net/c_310_420/pictures/19/10/02/20/15/5165593.jpg"
+  }
+]
