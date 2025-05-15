@@ -1,4 +1,5 @@
-[
+{
+  "filmes":[
   {
     "id": 1,
     "nome": "John Wick",
@@ -30,3 +31,4 @@
     "url_capa": "https://br.web.img3.acsta.net/c_310_420/pictures/19/10/02/20/15/5165593.jpg"
   }
 ]
+}
